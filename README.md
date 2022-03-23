@@ -2,7 +2,7 @@
 
 ```js
 const xsip = {
-  name: 'Stefan',
+  name: 'stef',
   age: 25,
   location: 'Europe',
   readme: 'Full-stack developer',
@@ -16,6 +16,7 @@ const xsip = {
     'Git', 'Webpack','Husky','Lint Staged', 'ESLint',
     'Postman','Jira','Confluence', 'Robo3T', 'Swagger'.,...
   ],
+  skills: ['Reverse Engineering']
   plattforms: ['Windows', 'macOS', 'Linux'],
   social: undefined
 };
