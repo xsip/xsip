@@ -4,7 +4,7 @@
 const xsip = {
   name: 'stef',
   age: 26,
-  location: 'Europe',
+  location: 'Europe, Austria',
   readme: 'Full-stack developer',
   technologies: [
     'NodeJs' ,'Typescript', 'JavaScript', 'NoSQL', 'MongoDB',
