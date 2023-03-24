@@ -3,13 +3,13 @@
 ```js
 const xsip = {
   name: 'stef',
-  age: 25,
+  age: 26,
   location: 'Europe',
   readme: 'Full-stack developer',
   technologies: [
-    'NodeJs' ,'Typescript', 'JavaScript', 'NoSQL', 'MongoDB', 'ReactJS',
+    'NodeJs' ,'Typescript', 'JavaScript', 'NoSQL', 'MongoDB',
     'NextJS', 'NestJS','Angular','AngularJS', 'express',
-    'CSS', 'C', 'Docker', 'Tailwind', 'HTML',
+    'CSS', 'C++', 'Docker', 'Tailwind', 'HTML',
     'Monorepos (nrwl/nx)', 'rxjs', 'OpenApi Generator',.....
   ],
   tools: [
