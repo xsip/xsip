@@ -10,7 +10,7 @@ const xsip = {
     'NodeJs' ,'Typescript', 'JavaScript', 'NoSQL', 'MongoDB',
     'NextJS', 'NestJS','Angular','AngularJS', 'express',
     'CSS', 'C++', 'Docker', 'Tailwind', 'HTML',
-    'Monorepos (nrwl/nx)', 'rxjs', 'OpenApi Generator',.....
+    'Monorepos (nrwl/nx)', 'rxjs', 'ngrx', 'OpenApi Generator',.....
   ],
   tools: [
     'Git', 'Webpack','Husky','Lint Staged', 'ESLint',
