@@ -3,7 +3,7 @@
 ```js
 const xsip = {
   name: 'stef',
-  age: 26,
+  age: 28,
   location: 'Europe, Vienna',
   readme: 'Full-stack developer',
   technologies: [
